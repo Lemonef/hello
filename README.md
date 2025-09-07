@@ -1,7 +1,5 @@
 # UniPLUS  
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/RTBS-ISP/UniPlus/ci.yml?branch=main)](https://github.com/RTBS-ISP/UniPlus/actions)  
-[![Coverage](https://img.shields.io/codecov/c/github/RTBS-ISP/UniPlus)](https://codecov.io/gh/RTBS-ISP/UniPlus)  
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)  
 ![Django](https://img.shields.io/badge/django-5.0-green.svg)  
 ![Next.js](https://img.shields.io/badge/next.js-14-black.svg)  
@@ -95,35 +93,4 @@ cd frontend/uniplus
 npm run dev
 ```
 
----
-
-## 🧪 Testing
-
-Run backend tests:
-
-```bash
-cd backend
-python manage.py test
-```
-
-Check code style (backend):
-
-```bash
-flake8
-```
-
----
-
-## 🤝 Contributing
-
-* Follow our **Coding Guidelines** (naming conventions, commit style).
-* Use **conventional commits** (`feat`, `fix`, `docs`, etc.).
-* Branch naming format:
-
-  ```
-  feature/your-feature-name
-  fix/your-bug-name
-  ```
-* All pull requests must pass **CI checks**.
- 
 ---
