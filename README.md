@@ -1,8 +1,3 @@
-Perfect 👍 Let’s make your UniPLUS README look professional like your **ku-vein** one.
-
-Here’s the **final polished `README.md`** with badges added at the very top (you can later replace the badge URLs with real ones from your GitHub Actions, Codecov, etc.):
-
-````markdown
 # UniPLUS  
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/RTBS-ISP/UniPlus/ci.yml?branch=main)](https://github.com/RTBS-ISP/UniPlus/actions)  
