@@ -1,10 +1,14 @@
 # UniPLUS  
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/RTBS-ISP/UniPlus/ci.yml?branch=main)](https://github.com/RTBS-ISP/UniPlus/actions)  
-[![Coverage Status](https://img.shields.io/codecov/c/github/RTBS-ISP/UniPlus)](https://codecov.io/gh/RTBS-ISP/UniPlus)  
-[![Lint](https://img.shields.io/badge/code%20style-flake8-blue)](https://flake8.pycqa.org/)  
+[![Coverage](https://img.shields.io/codecov/c/github/RTBS-ISP/UniPlus)](https://codecov.io/gh/RTBS-ISP/UniPlus)  
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)  
+![Django](https://img.shields.io/badge/django-5.0-green.svg)  
+![Next.js](https://img.shields.io/badge/next.js-14-black.svg)  
+![MySQL](https://img.shields.io/badge/mysql-8.0-orange.svg)  
 
 Next.js · Django · MySQL · Docker  
+
 
 ---
 
